@@ -66,6 +66,11 @@ export default function Game() {
     setCurrentMove(nextMove);
   }
 
+  const result = calculateWinner(currentSquares);
+  const status = result
+    ? `Winner: ${result.winner}` 
+    : `Next player: ${xIsNext ? "X" : "O"}`;
+
   const moves = history.map((step, move) => {
     const desc =
       move > 0
