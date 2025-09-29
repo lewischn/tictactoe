@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
-
-A simple React-based Tic-Tac-Toe game for two players. Features move history and highlights the current move.
+    
+A simple React-based Tic-Tac-Toe game for two players. Features move history and highlights the winning line.
 
 ## Demo
 
