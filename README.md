@@ -16,7 +16,14 @@ A simple React-based Tic-Tac-Toe game for two players. Features move history and
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/tictactoe.git
+git clone https://github.com/lewischn/tictactoe.git
 cd tictactoe
 npm install
 npm start
+
+## Technologies
+
+- React
+- JavaScript
+- Bootstrap
+- CSS
