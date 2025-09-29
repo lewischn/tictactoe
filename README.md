@@ -9,9 +9,8 @@ A simple React-based Tic-Tac-Toe game for two players. Features move history and
 ## Features
 
 - Two-player gameplay
-- Move history (time travel)
-- Highlights the current move
-- Responsive design
+- Allows you to see the move history of the game
+- Highlights the winning line
 
 ## Installation
 
